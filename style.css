@@ -13,14 +13,14 @@ h1 {text-align: center;
 #imagem1 {margin-left: 36%;
 }
 h2 {text-align: center;
-    h2 {color: white;
+    h2 {color: black;
 }
 #imagem2 {width: 57%;
 }
 h3 {text-align: center;
 }
 h3 {font-size: 115%;
-    h3 {color: white;
+    h3 {color: black;
 }
 h4 {color: white;
 }
@@ -31,7 +31,7 @@ h4 {font-size: 130%;
 h5 {text-align: center;
 }
 h5 {font-size: 115%;
-    h5 {color: white;
+    h5 {color: black;
 }
 body {background-color: red;
 }
