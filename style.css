@@ -1,4 +1,4 @@
-h1 {color: black;
+h1 {color: white;
 }
 #imagem1 {width: 30%;
 }
@@ -13,24 +13,27 @@ h1 {text-align: center;
 #imagem1 {margin-left: 36%;
 }
 h2 {text-align: center;
+    h2 {color: white;
 }
 #imagem2 {width: 57%;
 }
 h3 {text-align: center;
 }
-h3 {font-size: 115%;
+h3 {font-size: 125%;
+    h3 {color: white;
 }
-h4 {color: black;
+h4 {color: white;
 }
 h4 {text-align: center;
 }
-h4 {font-size: 130%;
+h4 {font-size: 150%;
 }
 h5 {text-align: center;
 }
-h5 {font-size: 115%;
+h5 {font-size: 125%;
+    h5 {color: white;
 }
 body {background-color: white
 }
-body {background-color: blue;
+body {background-color: black;
 }
